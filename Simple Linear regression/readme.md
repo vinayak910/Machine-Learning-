@@ -1,0 +1,1 @@
+This notebook provides a comprehensive guide to linear regression, one of the most popular machine learning algorithms. It demonstrates how to use linear regression for prediction and how to implement your own linear regression class from scratch.
